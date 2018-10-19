@@ -12,7 +12,8 @@ with open('../data/upcoming.json') as f:
 while True:
 	# Pick random apothegm that does not have hashtags yet
 	post = random.choice(apothegms)
-	apothegm = random.choice(post['apothegms'])
+	index = random.randrange(len(post['apothegms']))
+	apothegm = post['apothegms'][index]
 
 	if isinstance(apothegm, basestring):
 		
@@ -25,6 +26,7 @@ while True:
 		# Update data
 		apothegm_dict = {'apothegm': apothegm, 'hashtags': [hashtag1, hashtag2, hashtag3]}
 		upcoming.append(apothegm_dict)
+		post['apothegms'][index] = apothegm_dict
 	
 	# Continue?
 	response = ''

@@ -536,7 +536,14 @@
             "I have only a single rebuke for the Analects and then I am silent, from deep respect and admiration. The third lesson of The Analects 16:13 has greatly damaged a people.", 
             "Pornography leads to a pornographic mind. A society of pornographic minds is identical to a rape culture. Therefore, the one who wants to end a rape culture wants to end pornography.", 
             "It is more helpful to speak the truth than to belittle a lie. It is also more difficult.", 
-            "Weeping and dancing each have profundity. The one who can be trusted for full friendship holds these differing profundities close.", 
+            {
+                "hashtags": [
+                    "paradox", 
+                    "friendship", 
+                    "atimeforeverything"
+                ], 
+                "apothegm": "Weeping and dancing each have profundity. The one who can be trusted for full friendship holds these differing profundities close."
+            }, 
             "The point is not to know when the end of the world will be. The point is to live in the fact that we do not know. That is, always be ready.", 
             "Is it better to explain a truth than to throw a true insult.", 
             "I grow weary of philosophies that have unrest in their core.", 
@@ -634,7 +641,14 @@
             "The cynic who only trusts himself is to be pitied.", 
             "We try to control what we cannot \u2014 others \u2014 while we ignore our responsibility to control what we can \u2014 ourselves.", 
             "How silly it is to demand that others feel gratitude towards us. Gratitude cannot be coerced; it can only be gifted.", 
-            "\"Whenever a belief is taken to its extreme, it is a mistake.\" I see what you are saying, but it is a mistake to take that belief to its extreme.", 
+            {
+                "hashtags": [
+                    "contradiction", 
+                    "balance", 
+                    "zeal"
+                ], 
+                "apothegm": "\"Whenever a belief is taken to its extreme, it is a mistake.\" I see what you are saying, but it is a mistake to take that belief to its extreme."
+            }, 
             "A society without fairy tales like Pan's Labyrinth and The 13 Clocks is dreary indeed.", 
             "Without clear borders, there can exist no nations.", 
             "I am skeptical of a philosophy that does not encourage peace.", 
