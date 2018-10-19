@@ -7,8 +7,8 @@ import urllib
 from requests_oauthlib import OAuth1
 
 # Constants
-maxAttempts = 100
-previousSize = 600
+maxPostAttempts = 100
+historySize = 600
 
 # Load data
 with open('/home/pyzaist/auto-tweeter/data/apothegms.json') as f:
@@ -27,7 +27,7 @@ with open('/home/pyzaist/auto-tweeter/data/upcoming.json') as f:
 	upcoming = json.load(f)
 
 # Post random apothegm, trying until it succeeds
-for i in range(maxAttempts):
+for i in range(maxPostAttempts):
 
 	# If no upcoming ones with hashtags
 	if len(upcoming) == 0:
@@ -70,7 +70,7 @@ for i in range(maxAttempts):
 	# Handle response
 	if res.status_code == 200:
 		previous.append(apothegm)
-		if len(previous) > previousSize:
+		if len(previous) > historySize:
 			previous.pop(0)	
 		break;
 	else:
