@@ -3,7 +3,7 @@ import json
 
 # Get user input
 url = raw_input('URL of list: ')
-filename = raw_input('List file: ')
+filename = 'in'
 
 # Load list
 with open('../data/apothegms.json') as f:
