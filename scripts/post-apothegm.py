@@ -7,7 +7,11 @@ import urllib
 from requests_oauthlib import OAuth1
 
 # Constants
+<<<<<<< HEAD
+maxAttempts = 100
+=======
 maxPostAttempts = 100
+>>>>>>> 329dc6209269e77d6596eb2f71b8fe468e37d002
 historySize = 600
 
 # Load data
@@ -17,8 +21,8 @@ with open('/home/pyzaist/auto-tweeter/data/apothegms.json') as f:
 with open('/home/pyzaist/auto-tweeter/data/hashtags.json') as f:
 	hashtagList = json.load(f)
 
-with open('/home/pyzaist/auto-tweeter/data/previous.json') as f:
-	previous = json.load(f)
+with open('/home/pyzaist/auto-tweeter/data/history.json') as f:
+	history = json.load(f)
 
 with open('/home/pyzaist/auto-tweeter/data/auth.json') as f:
 	auth = json.load(f)
@@ -43,7 +47,7 @@ for i in range(maxPostAttempts):
 			apothegm = apothegm['apothegm']
 
 		# Make sure it hasn't been posted recently
-		if apothegm in previous:
+		if apothegm in history:
 			print('Recently posted ' + apothegm + '. Searching again.')
 			continue
 	
@@ -69,9 +73,9 @@ for i in range(maxPostAttempts):
 	
 	# Handle response
 	if res.status_code == 200:
-		previous.append(apothegm)
-		if len(previous) > historySize:
-			previous.pop(0)	
+		history.append(apothegm)
+		if len(history) > historySize:
+			history.pop(0)	
 		break;
 	else:
 		print('Error! Twitter didn\'t like that. Failed with status code ' + str(res.status_code))
@@ -79,8 +83,8 @@ for i in range(maxPostAttempts):
 		print('')
 
 # Save changes
-with open('/home/pyzaist/auto-tweeter/data/previous.json', 'w') as f:
-	f.write(json.dumps(previous, indent=4))
+with open('/home/pyzaist/auto-tweeter/data/history.json', 'w') as f:
+	f.write(json.dumps(history, indent=4))
 
 with open('/home/pyzaist/auto-tweeter/data/upcoming.json', 'w') as f:
 	f.write(json.dumps(upcoming, indent=4))
