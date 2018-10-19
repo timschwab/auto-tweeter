@@ -1,5 +1,6 @@
 # Imports
 import json
+import random
 
 # Load lists
 with open('../data/apothegms.json') as f:
@@ -13,12 +14,15 @@ while True:
 	post = random.choice(apothegms)
 	apothegm = random.choice(post['apothegms'])
 
-	if not isinstance(apothegm, basestring):
-		print(apothegm + "\n\n")
+	if isinstance(apothegm, basestring):
+		
+		# Get hashtags
+		print('\n' + apothegm + '\n')
 		hashtag1 = raw_input('hashtag1: ')
 		hashtag2 = raw_input('hashtag2: ')
 		hashtag3 = raw_input('hashtag3: ')
 
+		# Update data
 		apothegm_dict = {'apothegm': apothegm, 'hashtags': [hashtag1, hashtag2, hashtag3]}
 		upcoming.append(apothegm_dict)
 	
@@ -27,14 +31,14 @@ while True:
 	while response != 'y' and response != 'n':
 		response = raw_input('Another? (y/n)')
 	
-	if response == 'y':
+	if response != 'y':
 		break
 
 # Save changes
 with open('../data/apothegms.json', 'w') as f:
 	f.write(json.dumps(apothegms, indent=4))
 
-with open('../data/apothegms.json', 'w') as f:
+with open('../data/upcoming.json', 'w') as f:
 	f.write(json.dumps(upcoming, indent=4))
 
 
