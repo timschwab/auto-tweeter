@@ -6,37 +6,54 @@ import urllib
 
 from requests_oauthlib import OAuth1
 
-# Load lists
-with open('/home/pyzaist/twitter/data/apothegms.json') as f:
+# Constants
+maxAttempts = 100
+previousSize = 600
+
+# Load data
+with open('/home/pyzaist/auto-tweeter/data/apothegms.json') as f:
 	apothegms = json.load(f)
 
-with open('/home/pyzaist/twitter/data/hashtags.json') as f:
-	hashtags = json.load(f)
+with open('/home/pyzaist/auto-tweeter/data/hashtags.json') as f:
+	hashtagList = json.load(f)
 
-with open('/home/pyzaist/twitter/data/previous.json') as f:
+with open('/home/pyzaist/auto-tweeter/data/previous.json') as f:
 	previous = json.load(f)
 
-with open('/home/pyzaist/twitter/data/auth.json') as f:
+with open('/home/pyzaist/auto-tweeter/data/auth.json') as f:
 	auth = json.load(f)
 
+with open('/home/pyzaist/auto-tweeter/data/upcoming.json') as f:
+	upcoming = json.load(f)
+
 # Post random apothegm, trying until it succeeds
-for i in range(100):
+for i in range(maxAttempts):
 
-	# Choose apothegm
-	list = random.choice(apothegms)
-	apothegm = random.choice(list['apothegms'])
+	# If no upcoming ones with hashtags
+	if len(upcoming) == 0:
+		# Choose apothegm
+		post = random.choice(apothegms)
+		apothegm = random.choice(post['apothegms'])
+
+		# Choose hashtags
+		if isinstance(apothegm, basestring):
+			hashtags = random.sample(hashtagList, 3)
+		else:
+			hashtags = apothegm['hashtags']
+			apothegm = apothegm['apothegm']
+
+		# Make sure it hasn't been posted recently
+		if apothegm in previous:
+			print('Recently posted ' + apothegm + '. Searching again.')
+			continue
 	
-	# Choose hashtags
-	hashtag1 = hashtag2 = random.choice(hashtags)
-	while hashtag1 == hashtag2:
-		hashtag2 = random.choice(hashtags)
+	# If there are upcoming ones that I have added custom hashtags to
+	else:
+		apothegm = upcoming.pop(0)
+		hashtags = apothegm['hashtags']
+		apothegm = apothegm['apothegm']
 
-	status = apothegm + '\n\n' + '#' + hashtag1 + '\n#' + hashtag2
-
-	# Make sure it hasn't been posted in the last 600 posts
-	if apothegm in previous:
-		print('Recently posted ' + apothegm + '. Searching again.')
-		continue
+	status = apothegm + '\n\n#' + hashtags[0] + '\n#' + hashtags[1] + '\n#' + hashtags[2]
 
 	# Post apothegm
 	url = 'https://api.twitter.com/1.1/statuses/update.json?' + urllib.urlencode({'status': status.encode('utf-8')})
@@ -53,7 +70,7 @@ for i in range(100):
 	# Handle response
 	if res.status_code == 200:
 		previous.append(apothegm)
-		if len(previous) > 600:
+		if len(previous) > previousSize:
 			previous.pop(0)	
 		break;
 	else:
@@ -61,6 +78,9 @@ for i in range(100):
 		print(res.text)
 		print('')
 
-# Save the previous posts
-with open('/home/pyzaist/twitter/data/previous.json', 'w') as f:
+# Save changes
+with open('/home/pyzaist/auto-tweeter/data/previous.json', 'w') as f:
 	f.write(json.dumps(previous, indent=4))
+
+with open('/home/pyzaist/auto-tweeter/data/upcoming.json', 'w') as f:
+	f.write(json.dumps(upcoming, indent=4))
