@@ -1,10 +1,74 @@
 [
-	{
-		"apothegm": "testing new stuff...",
-		"hashtags": [
-			"tag1",
-			"tag2",
-			"tag3"
-		]
-	}
+    {
+        "hashtags": [
+            "grace", 
+            "maturity", 
+            "ignorance"
+        ], 
+        "apothegm": "I am not yet mature enough to show grace to someone who suggests that a dead thinker is an irrelevant thinker."
+    }, 
+    {
+        "hashtags": [
+            "philosophy", 
+            "anthropology", 
+            "systematics"
+        ], 
+        "apothegm": "A political philosophy exists only within a moral philosophy and an anthropology."
+    }, 
+    {
+        "hashtags": [
+            "time", 
+            "slowdown", 
+            "presence"
+        ], 
+        "apothegm": "Wounds take time to heal. Love takes time to grow. Wisdom takes time to develop. Needs take time to be seen. Actions take time to plan. Pleasures take time to be enjoyed. If we are so rushed that we have no time, what can our life be?"
+    }, 
+    {
+        "hashtags": [
+            "resurrection", 
+            "assurance", 
+            "foundation"
+        ], 
+        "apothegm": "Where can Knowledge be sure? Where can I build a hope? Where can I find a firm ground? Where can I lay my head to rest? In the resurrection of Jesus Christ."
+    }, 
+    {
+        "hashtags": [
+            "society", 
+            "mirth", 
+            "happiness"
+        ], 
+        "apothegm": "A society without mirth is dreary indeed."
+    }, 
+    {
+        "hashtags": [
+            "encouragement", 
+            "constantvigilance", 
+            "inthistogether"
+        ], 
+        "apothegm": "We all need encouragement from time to time. Therefore, do not be ashamed when you need encouragement, and be on the lookout to provide encouragement."
+    }, 
+    {
+        "hashtags": [
+            "nietzsche", 
+            "diss", 
+            "psychology"
+        ], 
+        "apothegm": "I wonder how Nietzsche would have reacted if someone had told him that he is not shocking, his moral philosophy is amateur, and, worst of all, his writings are boring."
+    }, 
+    {
+        "hashtags": [
+            "paradox", 
+            "friendship", 
+            "atimeforeverything"
+        ], 
+        "apothegm": "Weeping and dancing each have profundity. The one who can be trusted for full friendship holds these differing profundities close."
+    }, 
+    {
+        "hashtags": [
+            "contradiction", 
+            "balance", 
+            "zeal"
+        ], 
+        "apothegm": "\"Whenever a belief is taken to its extreme, it is a mistake.\" I see what you are saying, but it is a mistake to take that belief to its extreme."
+    }
 ]

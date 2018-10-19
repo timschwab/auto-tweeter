@@ -7,7 +7,11 @@ import urllib
 from requests_oauthlib import OAuth1
 
 # Constants
+<<<<<<< HEAD
 maxAttempts = 100
+=======
+maxPostAttempts = 100
+>>>>>>> 329dc6209269e77d6596eb2f71b8fe468e37d002
 historySize = 600
 
 # Load data
@@ -27,7 +31,7 @@ with open('/home/pyzaist/auto-tweeter/data/upcoming.json') as f:
 	upcoming = json.load(f)
 
 # Post random apothegm, trying until it succeeds
-for i in range(maxAttempts):
+for i in range(maxPostAttempts):
 
 	# If no upcoming ones with hashtags
 	if len(upcoming) == 0:
