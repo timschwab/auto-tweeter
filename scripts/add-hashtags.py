@@ -39,17 +39,15 @@ def updateApothegm(apothegms, upcoming):
 		index = random.randrange(len(post['apothegms']))
 		apothegm = post['apothegms'][index]
 
-	if isinstance(apothegm, basestring):
-		
-		# Get hashtags
-		print('\n' + apothegm + '\n')
-		hashtag1 = raw_input('hashtag1: ')
-		hashtag2 = raw_input('hashtag2: ')
-		hashtag3 = raw_input('hashtag3: ')
+	# Get hashtags
+	print('\n' + apothegm + '\n')
+	hashtag1 = raw_input('hashtag1: ')
+	hashtag2 = raw_input('hashtag2: ')
+	hashtag3 = raw_input('hashtag3: ')
 
-		# Update data
-		apothegm_dict = {'apothegm': apothegm, 'hashtags': [hashtag1, hashtag2, hashtag3]}
-		upcoming.append(apothegm_dict)
-		post['apothegms'][index] = apothegm_dict
+	# Update data
+	apothegm_dict = {'apothegm': apothegm, 'hashtags': [hashtag1, hashtag2, hashtag3]}
+	upcoming.append(apothegm_dict)
+	post['apothegms'][index] = apothegm_dict
 
 main()
