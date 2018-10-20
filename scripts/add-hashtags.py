@@ -13,8 +13,8 @@ def main():
 	with open(path + '/data/upcoming.json') as f:
 		upcoming = json.load(f)
 
-	response = ''
-	while response != 'y':
+	response = 'y'
+	while response == 'y':
 		updateApothegm(apothegms, upcoming)
 		
 		# Continue?

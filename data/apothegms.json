@@ -46,7 +46,14 @@
             "The righteous man is worthy of trust, but he rarely asks for trust. Nevertheless, he receives it.", 
             "Trust is not begun by being trustworthy, it is begun by hope. Trust is not maintained by grace, but by trustworthiness. Broken trust is restored by hope and trustworthiness together. Trust is not naive.", 
             "To be trusted, become trustworthy.", 
-            "To forgive belongs to you alone. To trust belongs to both of you.", 
+            {
+                "hashtags": [
+                    "forgiveness", 
+                    "trust", 
+                    "healing"
+                ], 
+                "apothegm": "To forgive belongs to you alone. To trust belongs to both of you."
+            }, 
             "How can we love the brother far away if we do not love the brother that is near?", 
             "A love of freedom destroys freedom. Ask yourself, was Sartre free?", 
             "Evil is not completely defeated until it is replaced with good.", 
@@ -869,7 +876,14 @@
             "The doctrine of spiritual gifts means that God has allowed us to be more talented in certain parts of Love than in other parts. When we cultivate our gifts, we become specialists in wisdom, or compassion, or justice, or patience, or boldness, or charity, or peace, or joy, or others.", 
             "In my deepest parts, I wish I could understand why homosexuality seems to be condemned in the Bible. But I do not.", 
             "There is perhaps only one important philosophical question, and Camus said it similarly. Why is nihilism incorrect?", 
-            "Nietzsche taught me why Proverbs calls foolishness a seductress."
+            {
+                "hashtags": [
+                    "Nietzsche", 
+                    "foolish", 
+                    "temptingwords"
+                ], 
+                "apothegm": "Nietzsche taught me why Proverbs calls foolishness a seductress."
+            }
         ]
     }, 
     {
@@ -1045,7 +1059,14 @@
             "The materialist mindset cannot understand worship.", 
             "Virtue has little to do with worship, and worship has little to do with virtue.", 
             "A life without worship is not a human life.", 
-            "Worship necessarily includes surrender of some kind.", 
+            {
+                "hashtags": [
+                    "worship", 
+                    "surrender", 
+                    "praise"
+                ], 
+                "apothegm": "Worship necessarily includes surrender of some kind."
+            }, 
             "Science does not lead to worship, though it can certainly aid it.", 
             "Worship is spiritual \u2014 it is not purely cerebral, and it is not uncerebral.", 
             "Virtue involves stepping into life's times. Worship involves stepping out of your life, into true Life.", 
