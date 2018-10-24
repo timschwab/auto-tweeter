@@ -8,7 +8,14 @@
             "The debate over the existence of God, in the end, is this: when we look into the world and ourselves, do we choose hope or despair? Meaning or the Absurd?", 
             "Music: the most abstract beauty.", 
             "If Kierkegaard had had the courage to marry Regine Olsen, she would have slowly assuaged his terrors. Modern Christianity might be a different thing. Indeed, the world at large might be different.", 
-            "It is impossible to be an existentialist and to feel like a member of a community at the same time.", 
+            {
+                "hashtags": [
+                    "existentialism", 
+                    "alone", 
+                    "nottheway"
+                ], 
+                "apothegm": "It is impossible to be an existentialist and to feel like a member of a community at the same time."
+            }, 
             "Long walks are much better than long sits.", 
             "Prince Zuko and Will Hunting are the same character.", 
             "If your heart does not weep at the beauty of Lord of the Rings, if it does not yearn for the compassion of the characters, if it does not burn at the courage and hope of the leaders, if it does not feel a visceral joy in the Shire, if it does not ache for the struggle of Frodo, if it does not long for the majesty of crowned Aragorn, if it is not astounded and called by the humility of Faramir, if it does not shout at the redemption and forgiveness of Boromir, if it is not moved to tears at the breadth and depth of insight into life that the books provide... you are missing out.", 
@@ -114,9 +121,23 @@
             "An insistence on happiness destroys happiness.", 
             "Someone once said, \"Conservatism is a healthy respect for the world as it is.\"", 
             "It is not uncommon for the pious to feel malice.", 
-            "I do not actually want grace. If I accept it, I will be admitting a fault!", 
+            {
+                "hashtags": [
+                    "insecurity", 
+                    "pride", 
+                    "grace"
+                ], 
+                "apothegm": "I do not actually want grace. If I accept it, I will be admitting a fault!"
+            }, 
             "Webb ended his magnum opus well. What a pity, what a pity.", 
-            "There is a reason many have turned to cynicism. We must not be the reason."
+            {
+                "hashtags": [
+                    "lifeishard", 
+                    "cynical", 
+                    "hope"
+                ], 
+                "apothegm": "There is a reason many have turned to cynicism. We must not be the reason."
+            }
         ]
     }, 
     {
@@ -180,7 +201,14 @@
             "Often, doubt comes not from arguments, but from experiences.", 
             "What is the difference between my faith and the faith of the caveman? In a word, history. In a sentence, my God showed up and died for me, and was resurrected.", 
             "Visiting an old friend who is doing well is a true pleasure.", 
-            "Islam equates unbelief and ingratitude. I'm not sure about this, but it is interesting.", 
+            {
+                "hashtags": [
+                    "learningfromothers", 
+                    "gratitude", 
+                    "religion"
+                ], 
+                "apothegm": "Islam equates unbelief and ingratitude. I'm not sure about this, but it is interesting."
+            }, 
             "I want to be a man who is a warrior for humility, compassion, joy, and strength. But that's just me.", 
             "The Avett Brothers deserve to be remembered.", 
             "Don't be afraid to be important.", 
@@ -278,7 +306,14 @@
             "Both Booker T. Washington and MLK thought that the key to racial reconciliation is the Gospel. I am with them.", 
             "Who would have expected that I, with my mind that is in love with rebelliousness, would be a Christian!", 
             "We cannot heal the broken until they are within the Church. This is because Christ heals them.", 
-            "I am really quite silly.", 
+            {
+                "hashtags": [
+                    "itstrue", 
+                    "ineedtobereminded", 
+                    "lulz"
+                ], 
+                "apothegm": "I am really quite silly."
+            }, 
             "We have failed to take seriously the challenges of existentialism and higher criticism and because of that, we cannot answer them.", 
             "When philosophizing, it is vitally important to remember that Satan is the Great Deceiver.", 
             "Bringing someone to salvation is another way of saying bringing someone into the Church.", 
@@ -333,7 +368,14 @@
             "When your mother disowns you, when your brothers spit on you, when your wife betrays you, when your mentors fail you, that is when Christ forgave.", 
             "This is the question: did Jesus actually rise from the dead?", 
             "Tolkien said that stories ought to have good endings. Life is the greatest story of all, and oh, does it have the best ending.", 
-            "If we are truly secure in our identity then we will be able to listen to criticism.", 
+            {
+                "hashtags": [
+                    "insecurity", 
+                    "criticism", 
+                    "security"
+                ], 
+                "apothegm": "If we are truly secure in our identity then we will be able to listen to criticism."
+            }, 
             "Life ought to be the crucible of our ideas. Life, and conversation.", 
             "Pan's Labyrinth ignites my heart with infinite wonder.", 
             "A scholar of Old Testament once interpreted Solomon's demise, Proverbs 31, Qohelet's despair, and Song of Songs in this way: The final and most difficult test of a man's wisdom is finding a good wife.", 
@@ -468,7 +510,14 @@
             "I am continually abandoning Christ, and He is continually bringing me back to Himself.", 
             "Some are guardians and keepers of the ancient truths of humility and patience, and some are warriors and constructors of the ancient truths of boldness and action. Perhaps all should be both.", 
             "Our question is not, \"How ought people to be?\" Our question is, \"Considering how people are, how ought I to be?\"", 
-            "Internal turmoil does not long remain internal.", 
+            {
+                "hashtags": [
+                    "healing", 
+                    "peace", 
+                    "InThisTogether"
+                ], 
+                "apothegm": "Internal turmoil does not long remain internal."
+            }, 
             "Love is far more than just affection. But it is not less.", 
             "When we consider an idea to be part of our identity, disagreement with that idea feels like a personal attack.", 
             "Political correctness originates in a healthy suspicion of ideas that have led to great evil. It has value, but perhaps should be held loosely.", 
@@ -643,7 +692,14 @@
             "A man who holds to no beliefs receives no respect. A man who refuses to change his wrong beliefs keeps no friends except himself.", 
             "This is perhaps a difficult, but surely an important question: what is humility?", 
             "The one who sees something important appears needlessly afflicted to the one who does not see the same thing.", 
-            "I gain no insights when someone agrees with me.", 
+            {
+                "hashtags": [
+                    "ironsharpensiron", 
+                    "friendship", 
+                    "insight"
+                ], 
+                "apothegm": "I gain no insights when someone agrees with me."
+            }, 
             "The crocodile sees no difference between leopards and cheetahs, but is angry that the leopard calls him an alligator. The leopard sees no difference between crocodiles and alligators, but is angry that the crocodile calls him a cheetah. But most of all, they are both angry that the other is inconsistent. They even make memes criticizing \"Reptile Logic\" and \"Mammal Logic.\" So, their brothers and sisters ask for the judgement of the owl. He says, \"The deepest inconsistency is demanding consistency in others while ignoring it in yourself. Remove your log before speaking of the other's speck.\"", 
             "The cynic who only trusts himself is to be pitied.", 
             "We try to control what we cannot \u2014 others \u2014 while we ignore our responsibility to control what we can \u2014 ourselves.", 
@@ -666,14 +722,28 @@
         "url": "https://pyzaist.blog/2017/02/01/apothegms-and-observations-xviii/", 
         "apothegms": [
             "I doubt that there is any leadership that does not lead by example. But a leader who leads by example can lead through other means as well.", 
-            "A society that does not laugh is dreary indeed.", 
+            {
+                "hashtags": [
+                    "mirth", 
+                    "laughter", 
+                    "lifetogether"
+                ], 
+                "apothegm": "A society that does not laugh is dreary indeed."
+            }, 
             "It is usually silly to decide against a good deed because it is awkward.", 
             "How easy it is to lose sight of the roots while in the midst of the branches.", 
             "Sad stories are often profound. But the most profound stories are certainly happy.", 
             "Distinguishing between Truth and the preferences of our personality type is no easy task.", 
             "A truth that comforts one man convicts another.", 
             "Ah as in apple, puh as in puzzle, and them as in anthem. AH-puh-them. Apothegm.", 
-            "A wisdom that rejects earnestness is suspiciously close to passivity justifying itself.", 
+            {
+                "hashtags": [
+                    "earnest", 
+                    "passive", 
+                    "wisdom"
+                ], 
+                "apothegm": "A wisdom that rejects earnestness is suspiciously close to passivity justifying itself."
+            }, 
             "The Christianity of the systematic theologian has a different texture than that of the scholar, or that of the counselor. Yet they are united! What a wondrous mystery.", 
             "If morality is whatever an individual decides it is, then justice becomes whatever the strongest entity says it is.", 
             "I enjoy clarity because lack of clarity is so common.", 
@@ -725,7 +795,14 @@
             "The humble man cherishes criticism.", 
             "My generation is in its politically formative years, and therefore I worry.", 
             "Few sayings ring truer than Proverbs 18:17.", 
-            "A society without mirth is dreary indeed.", 
+            {
+                "hashtags": [
+                    "mirth", 
+                    "hearty", 
+                    "lifetogether"
+                ], 
+                "apothegm": "A society without mirth is dreary indeed."
+            }, 
             "A leader who never compromises is not wise.", 
             "Scholars are not creators but curators of ideas, and we need both.", 
             "Those who do not feel contentment cannot feel mirth.", 
@@ -935,7 +1012,14 @@
             "Sentiments will not survive nihilism, but truth will. Christianity is astounding in that it claims to have True Sentiments.", 
             "The young would do well to seek counsel from the old. If only I knew this from the beginning\u2026.", 
             "Peace is not the avoidance of pain.", 
-            "The preacher who does not know forgiveness will damage many souls.", 
+            {
+                "hashtags": [
+                    "forgiveness", 
+                    "leadership", 
+                    "kindness"
+                ], 
+                "apothegm": "The preacher who does not know forgiveness will damage many souls."
+            }, 
             "The warrior must limit his empathy. We are all warriors.", 
             "Peace is not an emotion, but an assurance.", 
             "There is no fairy tale that is not about real life.", 
@@ -990,7 +1074,14 @@
             "The man who thinks that marriage can be explained through rational self-interest will have a mediocre marriage at best.", 
             "The reality is that all of the brothers and sisters are united in Christ. Fellowship is the making visible of this reality, the participation in this reality.", 
             "A foolish conception of the genders has resulted in the deep suffering of women. An abandonment of the difference in the genders has resulted in the suffering of both genders.", 
-            "A woman who believes she is ugly needs cherishing and a man who believes he is weak needs respect. She is a new creation and beautiful; he is a new creation and strong.", 
+            {
+                "hashtags": [
+                    "manandwoman", 
+                    "loveandrespect", 
+                    "newcreation"
+                ], 
+                "apothegm": "A woman who believes she is ugly needs cherishing and a man who believes he is weak needs respect. She is a new creation and beautiful; he is a new creation and strong."
+            }, 
             "If you do not understand the anger of the black community, then find a trusted black friend and ask, \"Tell me.\" Then, listen and do not speak.", 
             "For an emotionally charged term to remain a useful tool rather than become a dangerous weapon, it should have a definition. Privilege is systematic, unearned advantage.", 
             "A zinger is not an argument, though an argument may be a zinger."
@@ -1049,7 +1140,14 @@
             "People do change. Progress is possible.", 
             "It is not that women need cherishing more than men and men need admiration more than women. It is that women's insecurity tends to be that they are not loved, and men's insecurity tends to be that they are not respected. It is not an imbalance of needs, but an imbalance of insecurity. This calls for an imbalance of affirmation.", 
             "It is good to pray the dangerous prayer: \"Father, make me into who you want me to be.\"", 
-            "The value of the argument from beauty is that it cannot be purely cerebral. It begins with an experience of beauty, therefore it leads directly into worship. It is not a strong argument for the unpersuaded materialist, but for the already persuaded, it is immensely valuable. As Dostoyevsky said, \"Beauty will save the world.\"", 
+            {
+                "hashtags": [
+                    "worship", 
+                    "beauty", 
+                    "argumentforgod"
+                ], 
+                "apothegm": "The value of the argument from beauty is that it cannot be purely cerebral. It begins with an experience of beauty, therefore it leads directly into worship. It is not a strong argument for the unpersuaded materialist, but for the already persuaded, it is immensely valuable. As Dostoyevsky said, \"Beauty will save the world.\""
+            }, 
             "The one who laughs at heavy things may be foolish. But the one who is gravely serious towards light things may be in pain.", 
             "The humble person will not have insecurities.", 
             "I am not humble when I think to myself, \"I am finally learning what it means to be humble.\" I am not humble when I think to myself, \"I am desperately prideful.\" I am humble when I forget to ask whether or not I am humble.", 
@@ -1095,7 +1193,14 @@
             "Nietzsche's project was the trans-valuation of all values. His hope was for an Ubermensch whose force of will could create a new set of values \u2013 a new religion \u2013 for the atheist. His desire was to create for himself something to worship. My thoughts drift to Isaiah\u2026", 
             "The warrior's religion has mirth; the scientist's religion has worship; the social worker's religion has hope; the blue collar's religion has majesty; the police officer's religion has peace; the politician's religion has rest; the federal judge's religion has grace; the dancer's religion has doctrine; the activist's religion has silence; the professor's religion has mystery. What would humanity be without religion?", 
             "There is something in me that takes comfort in confusion.", 
-            "Until you understand what it means to find your joy in Christ, you will be unable to leave your idols.", 
+            {
+                "hashtags": [
+                    "ItsHowWeWork", 
+                    "JoyInChrist", 
+                    "idolatry"
+                ], 
+                "apothegm": "Until you understand what it means to find your joy in Christ, you will be unable to leave your idols."
+            }, 
             "If I am not yet joyful, then I am not yet mature.", 
             "It is no good to show how the idols of the world do not satisfy if you do not also show how Jesus does satisfy.", 
             "With over a billion views, the Pilots certainly struck a chord.", 
@@ -1354,7 +1459,14 @@
             "When we engage with a theological controversy, we ought to do so with much level-headedness.", 
             "Tell me the name of the man who claims that God is contra pleasure and contra comfort and contra leisure, that I may rebuke him! Did God not create sexuality?", 
             "A central truth of the Christian life: Whatever happens, if God's got us then we gon be alright.", 
-            "If I believe that the carefree man is merely ignorant or lazy, then my soul is in a sad state.", 
+            {
+                "hashtags": [
+                    "WisdomTendsTowardsJoy", 
+                    "wisdom", 
+                    "joy"
+                ], 
+                "apothegm": "If I believe that the carefree man is merely ignorant or lazy, then my soul is in a sad state."
+            }, 
             "It is better to reverse a sin pattern than it is to grieve over a sin pattern.", 
             "Worship and obedience cannot be separated.", 
             "There are few things more important to having a reasonably good life than the accumulation of wise counsel.", 

@@ -1,66 +1,122 @@
 [
     {
         "hashtags": [
-            "paradox", 
+            "insecurity", 
+            "criticism", 
+            "security"
+        ], 
+        "apothegm": "If we are truly secure in our identity then we will be able to listen to criticism."
+    }, 
+    {
+        "hashtags": [
+            "learningfromothers", 
+            "gratitude", 
+            "religion"
+        ], 
+        "apothegm": "Islam equates unbelief and ingratitude. I'm not sure about this, but it is interesting."
+    }, 
+    {
+        "hashtags": [
+            "insecurity", 
+            "pride", 
+            "grace"
+        ], 
+        "apothegm": "I do not actually want grace. If I accept it, I will be admitting a fault!"
+    }, 
+    {
+        "hashtags": [
+            "lifeishard", 
+            "cynical", 
+            "hope"
+        ], 
+        "apothegm": "There is a reason many have turned to cynicism. We must not be the reason."
+    }, 
+    {
+        "hashtags": [
+            "existentialism", 
+            "alone", 
+            "nottheway"
+        ], 
+        "apothegm": "It is impossible to be an existentialist and to feel like a member of a community at the same time."
+    }, 
+    {
+        "hashtags": [
+            "ironsharpensiron", 
             "friendship", 
-            "atimeforeverything"
+            "insight"
         ], 
-        "apothegm": "Weeping and dancing each have profundity. The one who can be trusted for full friendship holds these differing profundities close."
-    }, 
-    {
-        "hashtags": [
-            "contradiction", 
-            "balance", 
-            "zeal"
-        ], 
-        "apothegm": "\"Whenever a belief is taken to its extreme, it is a mistake.\" I see what you are saying, but it is a mistake to take that belief to its extreme."
-    }, 
-    {
-        "hashtags": [
-            "contentment", 
-            "grit", 
-            "wordshavemeaning"
-        ], 
-        "apothegm": "Never grumble."
-    }, 
-    {
-        "hashtags": [
-            "postmodern", 
-            "hypocrite", 
-            "speakwhatyouknow"
-        ], 
-        "apothegm": "If you have never read a postmodern theorist, it is best to refrain from critiquing postmodernism."
-    }, 
-    {
-        "hashtags": [
-            "humbling", 
-            "hypocrisy", 
-            "jesusbelikedat"
-        ], 
-        "apothegm": "The very same sin that yesterday you found unbearable in someone else, you will find deep in your soul tomorrow."
+        "apothegm": "I gain no insights when someone agrees with me."
     }, 
     {
         "hashtags": [
             "worship", 
-            "surrender", 
-            "praise"
+            "beauty", 
+            "argumentforgod"
         ], 
-        "apothegm": "Worship necessarily includes surrender of some kind."
+        "apothegm": "The value of the argument from beauty is that it cannot be purely cerebral. It begins with an experience of beauty, therefore it leads directly into worship. It is not a strong argument for the unpersuaded materialist, but for the already persuaded, it is immensely valuable. As Dostoyevsky said, \"Beauty will save the world.\""
+    }, 
+    {
+        "hashtags": [
+            "manandwoman", 
+            "loveandrespect", 
+            "newcreation"
+        ], 
+        "apothegm": "A woman who believes she is ugly needs cherishing and a man who believes he is weak needs respect. She is a new creation and beautiful; he is a new creation and strong."
+    }, 
+    {
+        "hashtags": [
+            "mirth", 
+            "laughter", 
+            "lifetogether"
+        ], 
+        "apothegm": "A society that does not laugh is dreary indeed."
     }, 
     {
         "hashtags": [
             "forgiveness", 
-            "trust", 
-            "healing"
+            "leadership", 
+            "kindness"
         ], 
-        "apothegm": "To forgive belongs to you alone. To trust belongs to both of you."
+        "apothegm": "The preacher who does not know forgiveness will damage many souls."
     }, 
     {
         "hashtags": [
-            "Nietzsche", 
-            "foolish", 
-            "temptingwords"
+            "itstrue", 
+            "ineedtobereminded", 
+            "lulz"
         ], 
-        "apothegm": "Nietzsche taught me why Proverbs calls foolishness a seductress."
+        "apothegm": "I am really quite silly."
+    }, 
+    {
+        "hashtags": [
+            "earnest", 
+            "passive", 
+            "wisdom"
+        ], 
+        "apothegm": "A wisdom that rejects earnestness is suspiciously close to passivity justifying itself."
+    }, 
+    {
+        "hashtags": [
+            "ItsHowWeWork", 
+            "JoyInChrist", 
+            "idolatry"
+        ], 
+        "apothegm": "Until you understand what it means to find your joy in Christ, you will be unable to leave your idols."
+    }, 
+    {
+        "hashtags": [
+            "WisdomTendsTowardsJoy", 
+            "wisdom", 
+            "joy"
+        ], 
+        "apothegm": "If I believe that the carefree man is merely ignorant or lazy, then my soul is in a sad state."
+    }, 
+    {
+        "hashtags": [
+            "healing", 
+            "peace", 
+            "InThisTogether"
+        ], 
+        "apothegm": "Internal turmoil does not long remain internal."
     }
 ]
