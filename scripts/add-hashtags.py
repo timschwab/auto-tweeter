@@ -34,7 +34,7 @@ def main():
 def updateApothegm(apothegms, upcoming):
 	# Pick random apothegm that does not have hashtags yet
 	apothegm = {}
-	while not isinstance(apothegm, basestring):
+	while not isinstance(apothegm, str):
 		post = random.choice(apothegms)
 		index = random.randrange(len(post['apothegms']))
 		apothegm = post['apothegms'][index]

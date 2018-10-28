@@ -17,7 +17,7 @@ def main():
 	
 	with open('/home/pyzaist/auto-tweeter/data/upcoming.json') as f:
 		upcoming = json.load(f)
-
+	
 	with open('/home/pyzaist/auto-tweeter/data/history.json') as f:
 		history = json.load(f)
 	
@@ -52,7 +52,7 @@ def generateStatus(apothegms, upcoming, history, hashtagList):
 		apothegm = random.choice(post['apothegms'])
 
 		# Choose hashtags
-		if isinstance(apothegm, basestring):
+		if isinstance(apothegm, str):
 			hashtags = random.sample(hashtagList, 3)
 			return {'apothegm': apothegm, 'hashtags': hashtags}
 		else:
@@ -73,7 +73,7 @@ def postStatus(history, auth, status):
 	status = apothegm + '\n\n#' + hashtags[0] + '\n#' + hashtags[1] + '\n#' + hashtags[2]
 
 	# Post apothegm
-	url = 'https://api.twitter.com/1.1/statuses/update.json?' + urllib.urlencode({'status': status.encode('utf-8')})
+	url = 'https://api.twitter.com/1.1/statuses/update.json?' + urllib.parse.urlencode({'status': status.encode('utf-8')})
 
 	authData = OAuth1(auth['client-key'],
 			auth['client-secret'],
@@ -88,7 +88,7 @@ def postStatus(history, auth, status):
 	if res.status_code == 200:
 		history.append(apothegm)
 		if len(history) > historySize:
-			history.pop(0)	
+			history.pop(0)
 		return True
 	else:
 		print('Error! Twitter didn\'t like that. Failed with status code ' + str(res.status_code))
