@@ -20,7 +20,7 @@ def main():
 		# Continue?
 		response = ''
 		while response != 'y' and response != 'n':
-			response = raw_input('Another? (y/n)')
+			response = input('Another? (y/n)')
 	
 	# Save changes
 	with open(path + '/data/apothegms.json', 'w') as f:
@@ -41,9 +41,9 @@ def updateApothegm(apothegms, upcoming):
 
 	# Get hashtags
 	print('\n' + apothegm + '\n')
-	hashtag1 = raw_input('hashtag1: ')
-	hashtag2 = raw_input('hashtag2: ')
-	hashtag3 = raw_input('hashtag3: ')
+	hashtag1 = input('hashtag1: ')
+	hashtag2 = input('hashtag2: ')
+	hashtag3 = input('hashtag3: ')
 
 	# Update data
 	apothegm_dict = {'apothegm': apothegm, 'hashtags': [hashtag1, hashtag2, hashtag3]}
