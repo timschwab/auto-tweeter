@@ -7,11 +7,7 @@ import urllib
 from requests_oauthlib import OAuth1
 
 # Constants
-<<<<<<< HEAD
-maxAttempts = 100
-=======
 maxPostAttempts = 100
->>>>>>> 329dc6209269e77d6596eb2f71b8fe468e37d002
 historySize = 600
 
 # Load data
@@ -76,7 +72,7 @@ for i in range(maxPostAttempts):
 		history.append(apothegm)
 		if len(history) > historySize:
 			history.pop(0)	
-		break;
+		break
 	else:
 		print('Error! Twitter didn\'t like that. Failed with status code ' + str(res.status_code))
 		print(res.text)
