@@ -26,11 +26,11 @@ A list of all my apothegms, separated by original post. Some of them are just st
 
 ### upcoming.json
 
-This file exists in the middle period between no hashtags and all hashtags. As I make progress in adding hashtags to all the apothegms, I want to post those ones I have already updated. So, this file is a staging file for that purpose.
+Not included in the git repo. This file exists in the middle period between no hashtags and all hashtags. As I make progress in adding hashtags to all the apothegms, I want to post those ones I have already updated. So, this file is a staging file for that purpose.
 
 ### history.json
 
-The previous 600 posts. `post-apothegm.py` checks this to make sure there is significant time between repeat posts.
+Not included in the git repo. The previous 600 posts. `post-apothegm.py` checks this to make sure there is significant time between repeat posts.
 
 ### hashtags.json
 
