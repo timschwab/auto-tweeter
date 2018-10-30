@@ -19,7 +19,7 @@ for list in data:
 apothegms = [line.strip() for line in open(filename)]
 list = {'url': url, 'apothegms': apothegms}
 
-# Add to file
+# Update files
 data.append(list)
 with open('../data/apothegms.json', 'w') as f:
 	f.write(json.dumps(data, indent=4))

@@ -105,6 +105,8 @@ venv.bak/
 
 # Custom
 data/auth.json
+data/upcoming.json
+data/history.json
 log
 
 
