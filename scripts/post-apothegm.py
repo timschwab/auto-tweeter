@@ -88,13 +88,9 @@ def postStatus(history, auth, status):
 	if res.status_code == 200:
 		history.append(apothegm)
 		if len(history) > historySize:
-<<<<<<< HEAD
-			history.pop(0)	
-		break
-=======
 			history.pop(0)
+		print('Success.')
 		return True
->>>>>>> aab4921a2d3e1d746156239f60c31eb5ebf71d68
 	else:
 		print('Error! Twitter didn\'t like that. Failed with status code ' + str(res.status_code))
 		print(res.text)
