@@ -77,7 +77,14 @@
             "The fellowshipless bookworm is unaware that he is lost.",
             "Repentance has not occurred until change has occurred.",
             "James 2:15-16 is not talking about physical needs alone.",
-            "The thing about the Golden Rule is that different people like to be treated differently.",
+            {
+                "apothegm": "The thing about the Golden Rule is that different people like to be treated differently.",
+                "hashtags": [
+                    "GoldenRule",
+                    "reciprocity",
+                    "understanding"
+                ]
+            },
             "If our sins are easy to see, we are fortunate.",
             "Art's je ne sais quoi is God.",
             "Straw man attacks against Christianity can be seen as warnings.",
@@ -153,7 +160,14 @@
             "Sorrow changes things.",
             "It is difficult to understand the value and beauty of Christianity's answers if you do not understand the objections.",
             "If you have forgotten who you used to be, you do not understand who you are.",
-            "Often, doubt originates not in the mind, but in the heart.",
+            {
+                "apothegm": "Often, doubt originates not in the mind, but in the heart.",
+                "hashtags": [
+                    "doubt",
+                    "irrational",
+                    "apologetics"
+                ]
+            },
             "Reason and logic can tell us nothing new. They only elaborate on what we already know.",
             "It is great folly to teach our children that life is easy.",
             "It is great folly to teach our children that life is pain.",
@@ -173,7 +187,14 @@
             "It is a normal thing to leave a community out of convenience. It is a serious thing to abandon a loved community out of disgust.",
             "A family is an unbreakable tie. A fellowship can come and go. God declares the Church to be a family.",
             "If we do not love the culture we come from, how can we love a foreign culture?",
-            "It is a mistake and hindrance to put our trust in Christian culture, and forget Christ.",
+            {
+                "apothegm": "It is a mistake and hindrance to put our trust in Christian culture, and forget Christ.",
+                "hashtags": [
+                    "culture",
+                    "JesusCulture",
+                    "Jesus"
+                ]
+            },
             "Why was I ever bored by Matt Papa?",
             "There are no humble men, only humbled men.",
             "The older generation wonders why their children are leaving the faith. Yes, teach us theology. But more important: show us theology.",
@@ -230,7 +251,14 @@
         "apothegms": [
             "What if sexual orientation is sometimes determined at birth?",
             "A life without regret is a life without reflection.",
-            "I really don't know much.",
+            {
+                "apothegm": "I really don't know much.",
+                "hashtags": [
+                    "ItsTrue",
+                    "NoReally",
+                    "ItIs"
+                ]
+            },
             "Practicality and idealism are equally important.",
             "We either learn from Nietzsche or make his lies true.",
             "If you are going to be an atheist, at least have the honesty to be a Nietzschean atheist.",
@@ -247,7 +275,14 @@
             "America is the Rich Young Ruler.",
             "I've heard it said that in Proverbs, wisdom and humility are interchangeable. I'm not sure of this, but it merits contemplation.",
             "It is easy to believe your identity is from Christ until your stability is threatened.",
-            "It is easy to believe your joy is from Christ until your idols are removed.",
+            {
+                "apothegm": "It is easy to believe your joy is from Christ until your idols are removed.",
+                "hashtags": [
+                    "joy",
+                    "idols",
+                    "denial"
+                ]
+            },
             "It is good to remember that theology is done by people, and people are invariably political. It is also good to remember that people are occasionally correct.",
             "It is refreshing to read the works of someone who used to be an atheist but is now Reformed. But if I desire to be honest, I had better read the works of someone who used to be Reformed but is now an atheist.",
             "A good test of an ideology is how it treats sexuality.",
@@ -352,7 +387,14 @@
             "There is an intelligence that can meticulously solve every issue, but whose thought lacks virtue. With a mind like this I will have nothing to do.",
             "How is it that I have only recently begun seeking counsel on important things?",
             "The real American dream is self-governance.",
-            "It is easy for us to believe we are knowledgeable if we can critique another with humor. But if we do not understand what we are critiquing, then we are merely scoffing.",
+            {
+                "apothegm": "It is easy for us to believe we are knowledgeable if we can critique another with humor. But if we do not understand what we are critiquing, then we are merely scoffing.",
+                "hashtags": [
+                    "scoffing",
+                    "humor",
+                    "critique"
+                ]
+            },
             "It is difficult to rebuke well.",
             "A rebuke surrounded by love can be received with repentance.",
             "How many are persuaded to follow a begrudging compliance? Mirth persuades others to follow."
@@ -378,7 +420,14 @@
             "I weep for the generation who believes men are simple.",
             "It is good to earnestly desire the beauties and rests of Heaven. It is also good to know full well that earth is not Heaven. It is folly to hold only one of these virtues.",
             "It is good to understand how things should be. It is also good to understand how things are. It is folly to understand only one of these.",
-            "The Christian does not avoid secular communities. He enters them and loves them.",
+            {
+                "apothegm": "The Christian does not avoid secular communities. He enters them and loves them.",
+                "hashtags": [
+                    "secularism",
+                    "LoveThyNeighbor",
+                    "love"
+                ]
+            },
             "When your mother disowns you, when your brothers spit on you, when your wife betrays you, when your mentors fail you, that is when Christ forgave.",
             "This is the question: did Jesus actually rise from the dead?",
             "Tolkien said that stories ought to have good endings. Life is the greatest story of all, and oh, does it have the best ending.",
@@ -498,14 +547,28 @@
             "There are few disputes that lack nuance.",
             "When freedom is an idol, community fades.",
             "It seems to me that eternality is an essential quality of meaningfulness.",
-            "The one who does not love the principle of reciprocity is a mind with its face pressed to a cage, screaming into a vast field of dark mirrors.",
+            {
+                "apothegm": "The one who does not love the principle of reciprocity is a mind with its face pressed to a cage, screaming into a vast field of dark mirrors.",
+                "hashtags": [
+                    "GoldenRule",
+                    "reciprocity",
+                    "DoUntoOthers"
+                ]
+            },
             "I only see the smallest fraction of a portion of that substance called Truth, and that far beyond imperfectly. Show me more.",
             "If one calls the other a blind fool, but the other respects the voice of the one among many, who then is the fool?",
             "It is difficult to know someone without knowing their story.",
             "It is easier to be happy when we are being useful.",
             "Zhuangzi said, \"Happiness is the absence of striving for happiness.\" He was on to something, but perhaps overstated himself.",
             "With Christ, the beauties of unbelievers are tragedies, and the uglinesses of believers are comedies.",
-            "There is a time to critique the incompleteness of a wise saying. There is a time to appreciate the wisdom of an incomplete saying. Perhaps all times are both times.",
+            {
+                "apothegm": "There is a time to critique the incompleteness of a wise saying. There is a time to appreciate the wisdom of an incomplete saying. Perhaps all times are both times.",
+                "hashtags": [
+                    "incompleteness",
+                    "wisdom",
+                    "critique"
+                ]
+            },
             "The road to sincerity is paved with grief.",
             "The virtuous man may experience rage, but at the end of the day he remembers peace.",
             "A culture built on rage is folly.",
@@ -718,7 +781,14 @@
             "Spiritual loneliness has little to do with physical solitude.",
             "It is interesting to me that the Westminster Confession of Faith lists Holy Scripture as the first chapter and God and the Trinity as the second chapter.",
             "A man who holds to no beliefs receives no respect. A man who refuses to change his wrong beliefs keeps no friends except himself.",
-            "This is perhaps a difficult, but surely an important question: what is humility?",
+            {
+                "apothegm": "This is perhaps a difficult, but surely an important question: what is humility?",
+                "hashtags": [
+                    "humility",
+                    "questions",
+                    "humble"
+                ]
+            },
             "The one who sees something important appears needlessly afflicted to the one who does not see the same thing.",
             {
                 "hashtags": [
@@ -967,7 +1037,14 @@
             "With a nod to the Avetts, perhaps there are two meanings to the modern word, \"Pride.\" To feel pride in one's nation or career is be thankful for a gift. To have hubris is to be blindly self-absorbed, self-important, to think oneself to be infinite and primary. It is to disregard the equal value of others, to ignore the fact of creatureliness, to hilariously desire Godhood.",
             "A word I often forget: service. The leader serves.",
             "If Nietzsche's entire system rests on his psychology, the Will to Power, then if his psychology is unsatisfactory, then his entire system is unsatisfactory. Surely his psychology is unsatisfactory: does it accurately describe a \"noble soul\" who loves to go fishing with his grandson? Does it accurately describe Hub, the adventurer who gives a talk to young men, teaching them about the good things of life beyond themselves? In short, does it accurately describe a retired free spirit?",
-            "If a community feels uneasy about celebrating \"Culture\" in the universal sense, I hesitate to trust it.",
+            {
+                "apothegm": "If a community feels uneasy about celebrating \"Culture\" in the universal sense, I hesitate to trust it.",
+                "hashtags": [
+                    "culture",
+                    "community",
+                    "art"
+                ]
+            },
             "I go with the existentialists in their astute psychology, their exposition of the inner workings of the individual, but I do not go with them in their terror of the meaninglessness of life. \"Do not fret,\" I say to the existentialist within, \"He is risen!\""
         ]
     },
@@ -985,7 +1062,14 @@
             "Nihilism showed me the immeasurable value of art that desires to be encouraging.",
             "Truly, of making books there is no end, and much study is a weariness of the flesh.",
             "It is my impression, and I hope it is a correct impression, that New Sincerity has made Mona an artifact of the past.",
-            "Love gifts freedom.",
+            {
+                "apothegm": "Love gifts freedom.",
+                "hashtags": [
+                    "love",
+                    "freedom",
+                    "gift"
+                ]
+            },
             "The only real objection to theism is the problem of suffering, and indeed, it is quite a problem. It is curious that the Bible does not disagree that it is a difficult problem.",
             "When I read Nietzsche, the experience is of seeing written all the things that I have always half-way thought in the back of my mind. Some of these thoughts I know I believe, while some of them I know I do not believe.",
             "The joy of The Very Potter Musical is that it was made by those in the in-crowd, and thus lacks that cruel, self-conscious insecurity that is unfortunately so common in theater.",
@@ -1154,7 +1238,14 @@
             "Life does not wait for you to be ready for it.",
             "If you only listen to your heart, you will never finish anything. If you only to listen to your brain, you will never start anything.",
             "Jesus does not leave us with an endlessly guilty conscience, yet he does not leave us content in our sins.",
-            "TD Jakes said it well, \"Some men are not articulate enough to say it, some are not thoughtful enough to speak it, and most are too private to admit it, but it is real hard to be a man.\"",
+            {
+                "apothegm": "TD Jakes said it well, \"Some men are not articulate enough to say it, some are not thoughtful enough to speak it, and most are too private to admit it, but it is real hard to be a man.\"",
+                "hashtags": [
+                    "manhood",
+                    "life",
+                    "vulnerability"
+                ]
+            },
             "It is not wise to rush to conclusions. A fast thinker is not a deep thinker. Why? Cognitive bias.",
             {
                 "apothegm": "We've all got pressures: school, work, friendships, children, a spouse, self-control. Do not add to these pressures unnecessarily, but instead seek to give strength to others who must learn to live with these pressures.",
@@ -1397,7 +1488,14 @@
             "It is impossible to force someone else to enjoy something.",
             "A correct view of authenticity does not despise imagination. A respect for what is real should not negate a love of what is imagined. This Is Us does not destroy The 13 Clocks.",
             "When you delight in the work of Christ, then you realize that oak trees and stars are delightful as well.",
-            "Wisdom joys in imagined faerie tales, and understands desolation.",
+            {
+                "apothegm": "Wisdom joys in imagined faerie tales, and understands desolation.",
+                "hashtags": [
+                    "wisdom",
+                    "imagination",
+                    "sadness"
+                ]
+            },
             "Living authentically is living truthfully. It is living with ideas and purposes for actions and being that are in accordance with reality; reality of yourself and reality of the universe's story. The existentialists value living with authenticity, the Stoics valuing living with authenticity, the Easterns value living with authenticity, and the religious value living with authenticity. The whole question is about what is real. Does imagination, story, legend, mythology depart from what is real? Or does it remember what is real? Does suffering show us what is real, or does it distract us from a deeper reality? When the materialist lives authentically, he is endlessly downcast, just trying to get by. When the Christian lives authentically, he has a whole range of emotions, from grief to laughter to shame to triumph to contentedness to doubt to joy.",
             "Perhaps the most important function of history is the remembrance of God's good works.",
             "The topic of modesty is truly a difficult one. How are men to worship God for the beauty of the feminine body, with its skin and its wonderful sexuality, and yet not sin? How are women to enjoy the adornment of their bodies with fashion, while considering the invasive and unjust fact of the lust of men? And what of men's bodies?",
@@ -1469,13 +1567,27 @@
             "A coping mechanism is not the same thing as an idol.",
             "I recommend four books in this order for my generation: Habakkuk, Ecclesiastes, Jude, and Luke.",
             "Here is a justification for the sentiments of animal rights activists: Proverbs 12:10.",
-            "The scoffer and the nihilist have much in common.",
+            {
+                "apothegm": "The scoffer and the nihilist have much in common.",
+                "hashtags": [
+                    "scoffing",
+                    "nihilism",
+                    "values"
+                ]
+            },
             "After reading Orthodoxy, The Antichrist was not so troubling.",
             "In war, it is not overly important if a man is nice or not. We are all at war.",
             "A woman who believes that niceness is the supreme virtue will damage her son.",
             "A woman who believes that niceness is the supreme virtue will be confused when her husband feels distant.",
             "When a man is a bold warrior, his niceness has not that hint of cowardice, and is truly admirable.",
-            "The humble man accepts discipline.",
+            {
+                "apothegm": "The humble man accepts discipline.",
+                "hashtags": [
+                    "humility",
+                    "discipline",
+                    "humble"
+                ]
+            },
             "A question that our generation is asking: Are the normal means of grace only prayer and Scripture, or does community join that number?",
             "A good way to learn about your home is by leaving it.",
             "I hesitate to trust a thinker who cannot anticipate possible points of confusion.",
@@ -1501,12 +1613,26 @@
             "If your theology is impeccable but you have no passion for supporting missions with your money, then I doubt your theology is impeccable.",
             "Christianity is not only about doctrine and knowledge, but transformation, action, and emotion.",
             "In a reasonable discussion, true doctrine can defend itself\u2014it doesn't need you to feel like a warrior who protects it. There are reasonable discussions, and then there are unreasonable discussions.",
-            "Before engaging in a controversy, ask yourself: Am I seeking to retain power, authority, and control, or am I seeking to know the Truth, that I may know God, that I may worship Him more? If your desire is power, be silent. I say again: If your desire is power, sit down.",
+            {
+                "apothegm": "Before engaging in a controversy, ask yourself: Am I seeking to retain power, authority, and control, or am I seeking to know the Truth, that I may know God, that I may worship Him more? If your desire is power, be silent. I say again: If your desire is power, sit down.",
+                "hashtags": [
+                    "controversy",
+                    "power",
+                    "truth"
+                ]
+            },
             "Fear is the enemy of truth.",
             "Do not over-lament at the evils of a secular society. We are to expect nothing more. Lament at the indolence of us, the Church.",
             "Life without suffering is not a Christian life.",
             "Ecclesiastes 7:10 is always sobering.",
-            "Never allow self-righteous feelings to endure. Always seek humility.",
+            {
+                "apothegm": "Never allow self-righteous feelings to endure. Always seek humility.",
+                "hashtags": [
+                    "humility",
+                    "SelfRighteous",
+                    "pride"
+                ]
+            },
             "If it is wrong to seek self\u2013interest, then Proverbs is an evil book.",
             "Via James, solidarity without action is not very helpful.",
             "God does not need you. But He delights to work through you.",
