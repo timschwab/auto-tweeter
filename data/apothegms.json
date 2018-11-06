@@ -668,7 +668,14 @@
             "The one who cannot disappoint anyone will end up disappointing everyone.",
             "It is difficult to respect the opinions of those who do not understand their dissent.",
             "I'm not certain, but I tend to think that the man who does not listen to art does not listen to himself.",
-            "I am continually abandoning Christ, and He is continually bringing me back to Himself.",
+            {
+                "apothegm": "I am continually abandoning Christ, and He is continually bringing me back to Himself.",
+                "hashtags": [
+                    "Christ",
+                    "PerseveranceOfTheSaints",
+                    "love"
+                ]
+            },
             "Some are guardians and keepers of the ancient truths of humility and patience, and some are warriors and constructors of the ancient truths of boldness and action. Perhaps all should be both.",
             "Our question is not, \"How ought people to be?\" Our question is, \"Considering how people are, how ought I to be?\"",
             {
@@ -786,7 +793,14 @@
             "If something is an idol, it is impossible to feel gratitude for it.",
             "Gratitude is understanding that something could very well not be present, and appreciating that it is present.",
             "Lack of knowledge amplifies an experience of peer pressure.",
-            "4chan is the result of unredeemed and unbounded self-awareness.",
+            {
+                "apothegm": "4chan is the result of unredeemed and unbounded self-awareness.",
+                "hashtags": [
+                    "4chan",
+                    "SelfAwareness",
+                    "abyss"
+                ]
+            },
             "Politics is not my field. I would suggest Locke.",
             "It is deeply foolish to ignore the insights of our elders. It is less foolish, but still foolish to assume that our elders were perfect.",
             "I am not yet mature enough to show grace to someone who suggests that a dead thinker is an irrelevant thinker.",
@@ -834,7 +848,14 @@
             "Confession enables us to see the problem through the eyes of one who loves us. This removes deafening shame and helps us find a solution. In this way, it makes healing and repentance far easier.",
             "Being selfish is not identical to being self-focused, but to be too much of either is a fault.",
             "The leader accepts responsibility.",
-            "The leader has a vision for what he wants to accomplish.",
+            {
+                "apothegm": "The leader has a vision for what he wants to accomplish.",
+                "hashtags": [
+                    "leader",
+                    "vision",
+                    "leadership"
+                ]
+            },
             "The leader is dependable.",
             "The leader delegates with tact, to ensure that the follower will not become bitter.",
             "Comic books are the modern mythologies.",
@@ -849,7 +870,14 @@
     {
         "url": "https://pyzaist.blog/2017/01/04/apothegms-and-observations-xvii/",
         "apothegms": [
-            "Charm can indeed be deceitful, but when it does not deceive, it is quite pleasant.",
+            {
+                "apothegm": "Charm can indeed be deceitful, but when it does not deceive, it is quite pleasant.",
+                "hashtags": [
+                    "charm",
+                    "deceit",
+                    "pleasant"
+                ]
+            },
             "I've heard it said that in politics, there occasionally comes a time when one must put aside his personal morality for the greater good. What! This is only true if my morality ignores the greater good.",
             "To be charming is to be playful, mature, and elegant. It is to be romantic, steady, and competent. It is to be adventurous, settled, and sincere. It truly longs for you to join it on an intimate outing, but gives you full freedom to accept or decline. It hints of a mysterious something, and you are drawn to discover it, but it steers the conversation gracefully towards you, precisely because it is interested in you and because you want to talk about yourself. But I exaggerate. To be charming is to have the appearance of these things.",
             "If the ability to change our nature is within our nature, can we change it?",
@@ -1011,7 +1039,14 @@
             "A life that ignores self-interest is impossible and a life that abhors sacrifice is evil.",
             "The humble man cherishes criticism.",
             "My generation is in its politically formative years, and therefore I worry.",
-            "Few sayings ring truer than Proverbs 18:17.",
+            {
+                "apothegm": "Few sayings ring truer than Proverbs 18:17.",
+                "hashtags": [
+                    "bible",
+                    "wait",
+                    "listen"
+                ]
+            },
             {
                 "hashtags": [
                     "mirth",
@@ -1043,7 +1078,14 @@
             "Much of philosophy wears me out, because I see great minds waste themselves on trivialities.",
             "If the people involved love others because Christ first loved them, their joy is in Christ's completed work, and they pursue wisdom, then any style of courtship will end well. If the people involved have deep flaws, then no style of courtship will go well. Which, then, is the more important, the character of the individuals or the way in which they date? Similarly, which is the more important, the character of the people and rulers, or the political system they develop to rule themselves?",
             "When I was young, I did not understand that Hebrews 10:25 is frightfully relevant.",
-            "A society wholly without ambition will perish slowly, and a society that worships ambition will perish in a flash.",
+            {
+                "apothegm": "A society wholly without ambition will perish slowly, and a society that worships ambition will perish in a flash.",
+                "hashtags": [
+                    "ambition",
+                    "society",
+                    "balance"
+                ]
+            },
             "It is a strange thing to assume that others are the same as us.",
             "It seems to me that much of philosophy is autobiography.",
             "How unbearable the world would be if everyone was like me! Nothing would ever get done.",
@@ -1510,7 +1552,14 @@
                 "apothegm": "Until you understand what it means to find your joy in Christ, you will be unable to leave your idols."
             },
             "If I am not yet joyful, then I am not yet mature.",
-            "It is no good to show how the idols of the world do not satisfy if you do not also show how Jesus does satisfy.",
+            {
+                "apothegm": "It is no good to show how the idols of the world do not satisfy if you do not also show how Jesus does satisfy.",
+                "hashtags": [
+                    "idolatry",
+                    "Jesus",
+                    "satisfaction"
+                ]
+            },
             "With over a billion views, the Pilots certainly struck a chord.",
             "A society that roots its foundation in the scientific method will be unable to avoid nihilism.",
             "The wise Josh Van Swol said, \"Introspection can give you completely wrong conclusions.\"",
@@ -1651,7 +1700,14 @@
             "Slavery to God is freedom.",
             "I always recommend expanding your taste in festivals.",
             "It seems to me that the more Christian your soul becomes, the more you will love all aspects of Culture. Art, ceremony, athletics, cuisine, poetry, romance.",
-            "Culture was provided by God to be a joyous human activity. To hate any aspect of Culture is usually to react to the idolatry of others. But this reaction is a rejection of a happy gift from God, and very dangerous.",
+            {
+                "apothegm": "Culture was provided by God to be a joyous human activity. To hate any aspect of Culture is usually to react to the idolatry of others. But this reaction is a rejection of a happy gift from God, and very dangerous.",
+                "hashtags": [
+                    "culture",
+                    "reaction",
+                    "gift"
+                ]
+            },
             "If I express my enjoyment of something for no moralistic reason, without a thought of you, but only because I enjoy it, then you will be curious. If I enjoy something because it is very spiritual to enjoy it, or because everyone else does and I want to fit in, or because I want to proselytize you by taking control of your soul and making it enjoy the thing I enjoy, then you will tend to dislike that thing.",
             "It is impossible to force someone else to enjoy something.",
             "A correct view of authenticity does not despise imagination. A respect for what is real should not negate a love of what is imagined. This Is Us does not destroy The 13 Clocks.",
@@ -1760,7 +1816,14 @@
             "After reading Orthodoxy, The Antichrist was not so troubling.",
             "In war, it is not overly important if a man is nice or not. We are all at war.",
             "A woman who believes that niceness is the supreme virtue will damage her son.",
-            "A woman who believes that niceness is the supreme virtue will be confused when her husband feels distant.",
+            {
+                "apothegm": "A woman who believes that niceness is the supreme virtue will be confused when her husband feels distant.",
+                "hashtags": [
+                    "nice",
+                    "masculinity",
+                    "manhood"
+                ]
+            },
             "When a man is a bold warrior, his niceness has not that hint of cowardice, and is truly admirable.",
             {
                 "apothegm": "The humble man accepts discipline.",
@@ -1877,7 +1940,14 @@
             "In Christianity, we are transformed into a new thing, which is the thing that we truly are. None of us are authentically ourselves until we are glorified.",
             "A shameless person reminds us that shame has a purpose.",
             "With a nod to CCEF, guilt is a feeling of condemnation when we do not meet a standard. Shame is a feeling of condemnation when under the gaze of a disapproving other. Guilt is about our deeds, behavior, and external being. Shame is about our identity and who we are. False guilt occurs when we try to meet a standard that is not obligatory, and can be mended through teaching about the real standard and real forgiveness. Unhealthy shame occurs when we find our self-worth in the wrong eyes, and can be mended through teaching about the One who loves us. Not to say that this mending is simple or easy, however.",
-            "It is profoundly evil to get a sense of satisfaction from the public humiliation of another. Yet, haven't we all felt this malice?",
+            {
+                "apothegm": "It is profoundly evil to get a sense of satisfaction from the public humiliation of another. Yet, haven't we all felt this malice?",
+                "hashtags": [
+                    "malice",
+                    "TotalDepravity",
+                    "ChristCameToSaveSinners"
+                ]
+            },
             "Make no excuses to avoid the work God has given for you to do. Do not be burdened by work that is not commanded by God. This is the work God has given for you to do: Love God, love your neighbor.",
             "There are few things in life better than seeing your beloved wife live happily.",
             "Fear of God is taking the holiness of God seriously.",
@@ -1903,7 +1973,14 @@
             "Regular stout meals go a long way for mental health.",
             "I really don't know much. Much of my mind is distracted by petty things. I just know that art is deep inside the purpose of life, that I want you to find peace and happiness, and that we all ought to talk often of Jesus.",
             "The mature man loses neither mirth nor reverence, neither joy nor compassion.",
-            "There is much empty talk in the world.",
+            {
+                "apothegm": "There is much empty talk in the world.",
+                "hashtags": [
+                    "BeTheDifference",
+                    "EmptyTalk",
+                    "wisdom"
+                ]
+            },
             "\"Only God can judge me.\" I agree, and what a wonderful truth it is! But, do not forget that He will.",
             "I have found that it is far easier to decry a bad thing than it is to praise a good thing.",
             "Just because something throws off our day and is horribly annoying does not mean that that thing is bad.",
