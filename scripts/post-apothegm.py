@@ -51,18 +51,24 @@ def generateStatus(apothegms, upcoming, history, hashtagList):
 		post = random.choice(apothegms)
 		apothegm = random.choice(post['apothegms'])
 
-		# Choose hashtags
+		# Check if it has custom hashtags
 		if isinstance(apothegm, str):
-			hashtags = random.sample(hashtagList, 3)
-			return {'apothegm': apothegm, 'hashtags': hashtags}
+			# Make sure it hasn't been posted recently
+			if apothegm in history:
+				print('Recently posted "' + apothegm + '". Searching again.')
+				return False
+			else:
+				hashtags = random.sample(hashtagList, 3)
+				return {'apothegm': apothegm, 'hashtags': hashtags}
 		else:
-			return apothegm
+			# Make sure it hasn't been posted recently
+			if apothegm in history:
+				print('Recently posted "' + apothegm + '". Searching again.')
+				return False
+			else:
+				return apothegm
 
-		# Make sure it hasn't been posted recently
-		if apothegm in history:
-			print('Recently posted ' + apothegm + '. Searching again.')
-			return False
-	
+
 	# If there are upcoming ones that I have added custom hashtags to
 	else:
 		return upcoming.pop(0)
