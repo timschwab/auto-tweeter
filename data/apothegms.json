@@ -130,7 +130,14 @@
             "Anger: often justified, but oh! so damaging.",
             "Is there a deeper tragedy than that of Cath?",
             "It is not uncommon for the pious to be afraid of questions.",
-            "The culmination, the epitome, the pinnacle of human civilization is the hot shower.",
+            {
+                "apothegm": "The culmination, the epitome, the pinnacle of human civilization is the hot shower.",
+                "hashtags": [
+                    "civilization",
+                    "sophistication",
+                    "SimplePleasures"
+                ]
+            },
             "Ignorance creates silly dogma and silly tolerance in equal measure.",
             "Existentialism is the philosophy of the day that we must confront face to face, in all fairness and knowledge and love and finally, harsh judgement. It is the philosophy of the angry artist, of \"culture\" in the arrogantly sophisticated sense, of the boundless Id. It is the philosophy that entices with beautiful claims of meaningless hope within despair, but when in its grasp, it leaves one gasping for breath, weeping on the cold floor, utterly crushed and without joy, hating all observation and human touch, but not knowing why or how to escape. The duty of the intellectual today is to understand it and have compassion on it, and thus to battle it with simple, calm joy. This joy may perhaps come from various places, but I fear only the religious man has a source of calm joy powerful enough to attack existentialism's desperation. It is comforting that the apologetic verse specifies \"Hope.\"",
             "Confusion is often the beginning of understanding.",
@@ -473,7 +480,14 @@
             "To me, the most psychologically devastating problem of epistemology is the problem of disagreement.",
             "What saves me from my deepest doubts is the historicity of the Resurrection.",
             "There are few question more worthy of consideration: What is wisdom?",
-            "My generation likes to think, \"WWJD?\" and this is good. But perhaps digesting the depths of Jeremiah, Lamentations, or Hosea would make our wisdom more complete.",
+            {
+                "apothegm": "My generation likes to think, \"WWJD?\" and this is good. But perhaps digesting the depths of Jeremiah, Lamentations, or Hosea would make our wisdom more complete.",
+                "hashtags": [
+                    "OT",
+                    "WWJD",
+                    "HoseaIsMyJam"
+                ]
+            },
             "I appreciate the honest insights into life that the movie Fight Club provides, but it is too bad that it seems to have been made by a fool, for fools. Yet, I am certain that the Church would do well to discuss why it is so impactful.",
             {
                 "apothegm": "Perhaps a common pitfall of Christian young women is avoiding harsh realities, and perhaps a common pitfall of Christian young men is absorbing harsh realities. In other words, earnest women are bad at being in the world, and earnest men are bad at not being of the world.",
@@ -526,7 +540,14 @@
             "Sometimes I think that if young women knew the constancy of many men's lust, they would act differently.",
             "Sometimes I think that if young men knew the constancy of many women's insecurity, they would act differently.",
             "It is a mistake to be too convinced by righteous anger.",
-            "If you think you should probably apologize, first accept Christ's rebuke so that you are able to apologize truly. Then, apologize.",
+            {
+                "apothegm": "If you think you should probably apologize, first accept Christ's rebuke so that you are able to apologize truly. Then, apologize.",
+                "hashtags": [
+                    "apologies",
+                    "Christ",
+                    "forgiveness"
+                ]
+            },
             "If someone is a world renowned expert on one topic, that does not mean he is an expert on every topic."
         ]
     },
@@ -664,7 +685,14 @@
             "The virtuous man may experience rage, but at the end of the day he remembers peace.",
             "A culture built on rage is folly.",
             "When rage follows a person home, no one prospers.",
-            "If a woman's only purpose is to be a helper to her husband, then a single woman has no purpose.",
+            {
+                "apothegm": "If a woman's only purpose is to be a helper to her husband, then a single woman has no purpose.",
+                "hashtags": [
+                    "purpose",
+                    "helper",
+                    "marriage"
+                ]
+            },
             "The man of understanding desires to excel at his trade.",
             "In my experience, reading Scripture is quite unlike anything. It is often the only thing that can bring peace to my heart, gently remove my pride, or lovingly encourage me.",
             "If everyone was like me, nothing would get done!",
@@ -1025,7 +1053,14 @@
         "apothegms": [
             "Nerds who have lost themselves in the glory of a tabletop game are among the few people I have come across who truly lack prejudice.",
             "Sayings that sound over-simplistic at first can become deep wells of meaning and comfort later in life.",
-            "At first I thought, \"A society without any wildness is dreary indeed.\" Then I remembered the Shire, and smiled at Tolkien's deeper wisdom.",
+            {
+                "apothegm": "At first I thought, \"A society without any wildness is dreary indeed.\" Then I remembered the Shire, and smiled at Tolkien's deeper wisdom.",
+                "hashtags": [
+                    "Tolkien",
+                    "Shire",
+                    "wildness"
+                ]
+            },
             {
                 "apothegm": "If it is necessary to do great evil to enforce a perfect society, then it is a great evil to enforce a perfect society.",
                 "hashtags": [
@@ -1040,7 +1075,14 @@
             "Alas, that I do not live in a generation whose music is Ella Fitzgerald\u2026.",
             "The leader speaks honestly, but seeks to calm the fears that will arise.",
             "If the existence of an enemy is denied, then all of their attacks are ambushes. Satan exists.",
-            "A life that has become only writing about God can forget who God is.",
+            {
+                "apothegm": "A life that has become only writing about God can forget who God is.",
+                "hashtags": [
+                    "writing",
+                    "theology",
+                    "God"
+                ]
+            },
             "In Confucius, in Plato, and in Proverbs, wisdom means the ability to lead well.",
             "This is perhaps an important question: Could a thoroughly Christian government work, and if not, does this mean that Machiavelli was right and Jesus was wrong?",
             "The wise Zeez Eggers said, \"Efficiency is not an end, but a means.\"",
@@ -1132,7 +1174,14 @@
         "url": "https://pyzaist.blog/2017/05/01/apothegms-and-observations-xxi/",
         "apothegms": [
             "To call a view dangerous is not to call it false.",
-            "I am less inclined to follow a book if it is blind to psychology.",
+            {
+                "apothegm": "I am less inclined to follow a book if it is blind to psychology.",
+                "hashtags": [
+                    "psychology",
+                    "thinking",
+                    "WholeCounsel"
+                ]
+            },
             "It is a strange thing to assume that the winner of the debate holds the truth.",
             "The modern person suffers from a profound problem: boredom.",
             {
@@ -1187,7 +1236,14 @@
     {
         "url": "https://pyzaist.blog/2017/06/01/apothegms-and-observations-xxii/",
         "apothegms": [
-            "Mr. Nitpicker, what are we to do with you?",
+            {
+                "apothegm": "Mr. Nitpicker, what are we to do with you?",
+                "hashtags": [
+                    "nitpicking",
+                    "legalist",
+                    "WeNeedGrace"
+                ]
+            },
             "Nietzsche attempts to be a philosopher of joy.",
             "I respect a feminist who knows the tradition: Wollstonecraft, Beauvoir, Wittig, and Butler.",
             "The Internet is undoubtedly great, but undoubtedly has given fools bullhorns.",
@@ -1267,7 +1323,14 @@
             "To commit to holding a conviction despite its being a minority view is either admirable courage or foolish arrogance, depending on the conviction.",
             "Nietzsche's question: what kind of person would believe in Christianity? His answer: a botched, bungled person who is not able to stand on his own. My question: what kind of person would have written The Antichrist? My answer: a wildly insecure, incautious person (who laughably claims he is the most cautious), who does not doubt his own psychoanalysis.",
             "Life is often jarringly diverse, with coworkers who expect you to be giddy with them one hour and a friend struggling to tell you of his depression the next.",
-            "As I shift into the real world, the doctrine of individual, different spiritual gifts becomes more and more obvious, and grand, and challenging.",
+            {
+                "apothegm": "As I shift into the real world, the doctrine of individual, different spiritual gifts becomes more and more obvious, and grand, and challenging.",
+                "hashtags": [
+                    "CorporateAmerica",
+                    "capitalism",
+                    "InThisTogether"
+                ]
+            },
             "An odd hypothesis: Much of virtue has to do with competence.",
             "Much, if not all, of leading is simply making oneself useful.",
             "Not all of life is about being useful. If leisure exists to make work more productive, does leisure not become work, and thus vanishes?",
@@ -1293,7 +1356,14 @@
             "It is not sin to feel vexation.",
             "The forgetful man is fortunate in that he is always experiencing life for the first time.",
             "In details, it is difficult to correctly interpret the Bible. But the general message is quite clear.",
-            "Se7en is altogether too dark.",
+            {
+                "apothegm": "Se7en is altogether too dark.",
+                "hashtags": [
+                    "se7en",
+                    "film",
+                    "ThereIsALimit"
+                ]
+            },
             "Indeed, much of life is a popularity contest. The reason for this riddlesome fact probably lies in insecurities, or perhaps a desire for power.",
             "It is easy to avoid a judgmental spirit when you have no values.",
             "Even if I did not believe that the Bible is the word of God, I would still be utterly convinced that it is the wisest book.",
@@ -1327,12 +1397,26 @@
     {
         "url": "https://pyzaist.blog/2017/09/01/apothegms-and-observations-xxv/",
         "apothegms": [
-            "At some point, a thinker must face nihilism.",
+            {
+                "apothegm": "At some point, a thinker must face nihilism.",
+                "hashtags": [
+                    "philosophy",
+                    "nihilism",
+                    "value"
+                ]
+            },
             "The preacher who says nothing of peace will damage many souls.",
             "The wise mother allows her son to play in the dirt.",
             "Life without sentimentality is death.",
             "Sentiments will not survive nihilism, but truth will. Christianity is astounding in that it claims to have True Sentiments.",
-            "The young would do well to seek counsel from the old. If only I knew this from the beginning\u2026.",
+            {
+                "apothegm": "The young would do well to seek counsel from the old. If only I knew this from the beginning\u2026.",
+                "hashtags": [
+                    "RespectOurElders",
+                    "wisdom",
+                    "experience"
+                ]
+            },
             "Peace is not the avoidance of pain.",
             {
                 "hashtags": [
@@ -1358,7 +1442,14 @@
             "Avoiding pride is the hardest when we are pointing out pride in another. I can say with certainty that I have never succeeded here.",
             "If I am able to comfortably live without something for the rest of my life, then it is not a need. Few things are needs.",
             "The way out of chronic shame is repetition of truth.",
-            "The restoration of broken trust requires repeated trustworthiness.",
+            {
+                "apothegm": "The restoration of broken trust requires repeated trustworthiness.",
+                "hashtags": [
+                    "trust",
+                    "restoration",
+                    "repitition"
+                ]
+            },
             "Ritual is intentional repetition.",
             "It is a long journey from our minds to our hearts.",
             "A man can convince himself of many ridiculous things through the use of repetition.",
@@ -1395,7 +1486,14 @@
             "Resentment is the beginning of much long-term harm.",
             "Truly, much of life is about finding balance.",
             "Seeing the happy can be a pain to the unhappy.",
-            "We have not even begun if we think that we have finished understanding life.",
+            {
+                "apothegm": "We have not even begun if we think that we have finished understanding life.",
+                "hashtags": [
+                    "humility",
+                    "understanding",
+                    "life"
+                ]
+            },
             "When you feel like you have conquered pride, ask your closest friend where you are being blind to sin in your life.",
             "Without forgiveness, fellowship cannot last half an hour.",
             "Spirit is where freedom lies, and spirit is only found in flexible stability, and flexible stability is only found in a God-man.",
@@ -1433,7 +1531,14 @@
     {
         "url": "https://pyzaist.blog/2017/11/01/apothegms-and-observations-xxvii/",
         "apothegms": [
-            "Art that bestows beauty to regular life is great art indeed.",
+            {
+                "apothegm": "Art that bestows beauty to regular life is great art indeed.",
+                "hashtags": [
+                    "art",
+                    "beauty",
+                    "mundane"
+                ]
+            },
             "Empathy without hope is a worshiped idol, just as powerless as a carved stone. Empathy in context is immensely powerful.",
             "Emerging from depression can create survivor's guilt.",
             "The rare man with no resentment in his heart is to be imitated.",
@@ -1468,7 +1573,14 @@
             "To respect a man is to say to him, \"I would be comfortable being led by you.\"",
             "It is difficult to know what the world was like before we were born.",
             "An unasked word of sincere encouragement goes a long way.",
-            "I once heard that insecurities come in three types: A feeling of helplessness, a feeling of hopelessness, and a feeling of worthlessness.",
+            {
+                "apothegm": "I once heard that insecurities come in three types: A feeling of helplessness, a feeling of hopelessness, and a feeling of worthlessness.",
+                "hashtags": [
+                    "insecurity",
+                    "worthlessness",
+                    "hopelessness"
+                ]
+            },
             {
                 "apothegm": "If each other is all we've got, then we haven't got real Hope.",
                 "hashtags": [
@@ -1642,7 +1754,14 @@
             "The $6 rotisserie chicken is truly a wonder of our time.",
             "I chuckle when the progressive thinker denounces other people who set up a binary of Us and Them, and treat others as Others. What has he just done, except set up a binary of Us and Them, and treated the other as the Other? Sartre meant it as a natural and inescapable result of interacting subjectivities.",
             "Three fourths of the difficulty is figuring out the right purpose, not how to accomplish that purpose.",
-            "A life without play is a misery.",
+            {
+                "apothegm": "A life without play is a misery.",
+                "hashtags": [
+                    "play",
+                    "fun",
+                    "SimpleJoy"
+                ]
+            },
             "The healthy person can laugh at the things he would die for.",
             "\"I think materialism is true.\" In that case, what exactly do you mean by the words \"I\" and \"think\"? Are they not reducible to illusion?",
             {
@@ -1665,7 +1784,14 @@
             "If a man can bring the world around him closer to Joy, I will listen to his opinion. If a man can bring his children closer to Joy, I will trust his opinion. But if a man can bring his wife closer to Joy, I will seek his opinion.",
             "It is right to focus on loving family not because it is comfortable and easy, but because it is the hardest test of yourself.",
             "The suffering that comes with being a shepherd is not easily soothed.",
-            "The man who loves Scripture will evangelize.",
+            {
+                "apothegm": "The man who loves Scripture will evangelize.",
+                "hashtags": [
+                    "Scripture",
+                    "MissionariesWhereWeAre",
+                    "SpreadTheWord"
+                ]
+            },
             "Postmodernism is always complaining of the \"incoherence\" of other ideologies, all the while maintaining the deepest incoherencies of them all. But I suppose this is to be expected, as it is an incoherent philosophy.",
             "The similarity in cognitive ability of primates and humans raises real questions of our spirituality.",
             "I do not say many things with complete and unwavering conviction, but I say this. A materialist can only be a nihilist. When his philosophy (inevitably) does not become nihilist, it is because he is choosing to ignore his materialism.",
@@ -1693,7 +1819,14 @@
             "The only place we will feel full and permanent belonging is heaven.",
             "Bitterness leads to death, and is not to be taken lightly.",
             "The relatable in life does much good in easing loneliness and allowing us to laugh at ourselves.",
-            "To only love what is relatable is to only love yourself.",
+            {
+                "apothegm": "To only love what is relatable is to only love yourself.",
+                "hashtags": [
+                    "relatable",
+                    "selfish",
+                    "LoveYourNeighbor"
+                ]
+            },
             "The relatable in life can hold much mirth and laughter.",
             "What is relatable? What is relatable is pride and foolish anger. Dirty lust. Being downcast to the point of physical pain manifested as a headache. Anxiety that is not funny. Bad communication that hurts the ones I love. A sluggard who hates the couch but wallows in it. These things are relatable, but filled with sin or sorrow. Spilling coffee on yourself right before an important meeting is also relatable, and filled with joy. Just because something is relatable does not mean it should be celebrated.",
             "The relatable reminds us that we are not alone.",
@@ -1802,7 +1935,14 @@
             "A life with no disgust is a life with no values.",
             "A life lived only in opposition to Hitler's monstrosities will inevitably become a monstrosity itself.",
             "Wisdom is persuasive to the wise man, but he is not convinced by foolishness.",
-            "The fool receives instruction like the wise man receives arrogance. He is unmoved.",
+            {
+                "apothegm": "The fool receives instruction like the wise man receives arrogance. He is unmoved.",
+                "hashtags": [
+                    "instruction",
+                    "wisdom",
+                    "foolishness"
+                ]
+            },
             "Without knowledge of the problems, how can we speak of the answers?",
             "I hesitate to trust words that come without actions.",
             "The wise man enjoys the pleasures of the world without sinning.",
@@ -1926,7 +2066,14 @@
             "A strong test: If a person can name several people who disagree with them, and name why those people disagree with them, and explain why those reasons are not valid reasons, then that person certainly has words worth listening to.",
             "If we do not know what we need salvation from, Christianity won't be very appealing.",
             "Upon discovering a true paradox, we can either respond with anguish or mirth. We ought to respond with mirth.",
-            "The completely clean and organized space is sterile, lifeless, and cannot adapt. The completely unorganized and chaotic space is lawless, mindless, and serves no function.",
+            {
+                "apothegm": "The completely clean and organized space is sterile, lifeless, and cannot adapt. The completely unorganized and chaotic space is lawless, mindless, and serves no function.",
+                "hashtags": [
+                    "clean",
+                    "chaos",
+                    "balance"
+                ]
+            },
             "If you do not want to repeat the sins of your parents, it is likely that you must one day forgive them of their sins.",
             "There are three reasons to go on a short-term mission trip. To support the missionary with your fellowship, to build permanent things (for example, through construction), and to enrich your own heart by serving the destitute for Christ.",
             "A measure of the health of a church: How much of the sermon is spent bringing you into the text?",
@@ -2070,7 +2217,14 @@
             "It is not particularly Christian to be unconcerned with politics.",
             "Twitter is not the place to hear a broad array of perspectives. It is not the place to decide what you believe. It is a place we can go to get current information, after we have already decided some first principles.",
             "I would do well to remember that Paul declares that it is sin to be a lover of controversy.",
-            "Being in authority changes how you view authority figures.",
+            {
+                "apothegm": "Being in authority changes how you view authority figures.",
+                "hashtags": [
+                    "authority",
+                    "WeNeedGrace",
+                    "WeNeedLeaders"
+                ]
+            },
             "I imagine that some psychological disorders are entirely spiritual and some are entirely physical. I also imagine that nearly all of them are a mix of both.",
             "\u201cBecause I know it in my bones\u201d is not a reason to believe in God. But, if that is why you believe, I won\u2019t try to convince you otherwise!",
             "If we are Christian, then it is not true that we are \u201conly human.\u201d",
@@ -2087,7 +2241,14 @@
             "There are times in life that empathy is impossible, and the attempt is offensive.",
             "If someone must be similar to me or must have had similar experiences as me for me to listen to them, then I am lost indeed. In fact, the one who is unlike me has the more valuable voice.",
             "The wise man\u2019s curse is to live among fools.",
-            "If leisure is unimportant, then art is unimportant. For all art is born out of leisure.",
+            {
+                "apothegm": "If leisure is unimportant, then art is unimportant. For all art is born out of leisure.",
+                "hashtags": [
+                    "leisure",
+                    "art",
+                    "culture"
+                ]
+            },
             "The trustworthy one uses dark news to inform, but hearty words to instill courage. The untrustworthy one uses dark news to provoke rash action.",
             "Trustworthy words in dark times counsel actions that come from courage and hope, not from fear and defeat.",
             "Terror is easily weaponized.",
