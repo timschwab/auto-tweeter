@@ -2,7 +2,7 @@
 import json
 
 # Get user input
-url = raw_input('URL of list: ')
+url = input('URL of list: ')
 filename = 'in'
 
 # Load list
