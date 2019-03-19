@@ -62,8 +62,8 @@ def generateStatus(apothegms, upcoming, history, hashtagList):
 				return {'apothegm': apothegm, 'hashtags': hashtags}
 		else:
 			# Make sure it hasn't been posted recently
-			if apothegm in history:
-				print('Recently posted "' + apothegm + '". Searching again.')
+			if apothegm['apothegm'] in history:
+				print('Recently posted "' + apothegm['apothegm'] + '". Searching again.')
 				return False
 			else:
 				return apothegm
